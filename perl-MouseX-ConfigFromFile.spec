@@ -12,7 +12,7 @@ Version:	0.03
 Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/MouseX/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://search.cpan.org/CPAN/authors/id/M/MA/MASAKI/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	1299c2e66efefc113b8b5ac0405a5c24
 URL:		http://search.cpan.org/dist/MouseX-ConfigFromFile/
 BuildRequires:	perl-devel >= 1:5.8.0
