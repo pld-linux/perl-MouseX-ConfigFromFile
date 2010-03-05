@@ -8,12 +8,12 @@
 Summary:	MouseX::ConfigFromFile - An abstract Mouse role for setting attributes from a configfile
 Summary(pl.UTF-8):	MouseX::ConfigFromFile - abstrakcyjna rola Mouse do ustawiania atrybutów z pliku konfiguracyjnego
 Name:		perl-MouseX-ConfigFromFile
-Version:	0.03
+Version:	0.05
 Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/M/MA/MASAKI/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1299c2e66efefc113b8b5ac0405a5c24
+# Source0-md5:	f6dc7f738085611949510c07301402ca
 URL:		http://search.cpan.org/dist/MouseX-ConfigFromFile/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
