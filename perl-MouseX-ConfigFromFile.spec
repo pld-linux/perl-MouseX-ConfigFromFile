@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	MouseX
 %define	pnam	ConfigFromFile
 Summary:	MouseX::ConfigFromFile - An abstract Mouse role for setting attributes from a configfile
